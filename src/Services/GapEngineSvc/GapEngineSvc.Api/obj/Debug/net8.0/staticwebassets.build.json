@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TokTrH86OhZzuBXJyU+RFeJMIrGKD67vJxe8Cdh1SC4=",
+  "Source": "GapEngineSvc.Api",
+  "BasePath": "_content/GapEngineSvc.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

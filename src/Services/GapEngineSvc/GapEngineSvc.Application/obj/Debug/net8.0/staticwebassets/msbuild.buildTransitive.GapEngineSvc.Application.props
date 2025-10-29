@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/GapEngineSvc.Application.props" />
+</Project>

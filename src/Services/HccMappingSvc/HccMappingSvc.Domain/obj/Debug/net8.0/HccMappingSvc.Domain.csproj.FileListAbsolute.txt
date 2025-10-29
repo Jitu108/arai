@@ -31,3 +31,4 @@
 /Users/jitendra/Projects/ARAI/src/Services/HccMappingSvc/HccMappingSvc.Domain/obj/Debug/net8.0/HccMappingSvc.Domain.pdb
 /Users/jitendra/Projects/ARAI/src/Services/HccMappingSvc/HccMappingSvc.Domain/obj/Debug/net8.0/HccMappingSvc.Domain.genruntimeconfig.cache
 /Users/jitendra/Projects/ARAI/src/Services/HccMappingSvc/HccMappingSvc.Domain/obj/Debug/net8.0/ref/HccMappingSvc.Domain.dll
+/Users/jitendra/Projects/ARAI/src/Services/HccMappingSvc/HccMappingSvc.Domain/obj/Debug/net8.0/HccMappingSvc.Domain.sourcelink.json

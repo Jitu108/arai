@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rq67yUF48JOAflVL0VTeozzjk83YIbVGBg745jG5+yA=",
+  "Source": "GapEngineSvc.Infrastructure",
+  "BasePath": "_content/GapEngineSvc.Infrastructure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

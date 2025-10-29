@@ -31,3 +31,4 @@
 /Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Application/obj/Debug/net8.0/PatientSvc.Application.pdb
 /Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Application/obj/Debug/net8.0/PatientSvc.Application.genruntimeconfig.cache
 /Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Application/obj/Debug/net8.0/ref/PatientSvc.Application.dll
+/Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Application/obj/Debug/net8.0/PatientSvc.Application.sourcelink.json

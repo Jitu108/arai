@@ -1,0 +1,23 @@
+{
+  "solution": {
+      "path": "arai.sln",
+      "projects": [
+            "BuildingBlocks/BuildingBlocks.Domain/BuildingBlocks.Domain.csproj",
+            "BuildingBlocks/BuildingBlocks.Application/BuildingBlocks.Application.csproj",
+            "BuildingBlocks/BuildingBlocks.Infrastructure/BuildingBlocks.Infrastructure.csproj",
+            "Services/PatientSvc/PatientSvc.Domain/PatientSvc.Domain.csproj",
+            "Services/PatientSvc/PatientSvc.Application/PatientSvc.Application.csproj",
+            "Services/PatientSvc/PatientSvc.Infrastructure/PatientSvc.Infrastructure.csproj",
+            "Services/PatientSvc/PatientSvc.Api/PatientSvc.Api.csproj",
+            "Services/HccMappingSvc/HccMappingSvc.Domain/HccMappingSvc.Domain.csproj",
+            "Services/HccMappingSvc/HccMappingSvc.Application/HccMappingSvc.Application.csproj",
+            "Services/HccMappingSvc/HccMappingSvc.Infrastructure/HccMappingSvc.Infrastructure.csproj",
+            "Services/HccMappingSvc/HccMappingSvc.Api/HccMappingSvc.Api.csproj",
+            "Services/GapEngineSvc/GapEngineSvc.Domain/GapEngineSvc.Domain.csproj",
+            "Services/GapEngineSvc/GapEngineSvc.Application/GapEngineSvc.Application.csproj",
+            "Services/GapEngineSvc/GapEngineSvc.Infrastructure/GapEngineSvc.Infrastructure.csproj",
+            "Services/GapEngineSvc/GapEngineSvc.Api/GapEngineSvc.Api.csproj",
+            "Gateways/OcelotGateway/OcelotGateway.csproj"
+        ]
+    }
+}

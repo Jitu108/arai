@@ -31,3 +31,4 @@
 /Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Domain/obj/Debug/net8.0/BuildingBlocks.Domain.pdb
 /Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Domain/obj/Debug/net8.0/BuildingBlocks.Domain.genruntimeconfig.cache
 /Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Domain/obj/Debug/net8.0/ref/BuildingBlocks.Domain.dll
+/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Domain/obj/Debug/net8.0/BuildingBlocks.Domain.sourcelink.json
