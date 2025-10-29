@@ -60,7 +60,7 @@ graph TD
 
 ```bash
 # 1️⃣ Clone repo
-git clone https://github.com/<your-username>/arai.git && cd arai
+git clone https://github.com/Jitu108/arai.git && cd arai
 
 # 2️⃣ Launch containers
 docker-compose up -d --build
