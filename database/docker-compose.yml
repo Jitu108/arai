@@ -1,0 +1,10 @@
+  patientsvc:
+    build: ./src/Services/PatientSvc/PatientSvc.Api
+    environment:
+      ASPNETCORE_URLS: "http://+:8080"
+      DOTNET_ENVIRONMENT: "Development"
+      ConnectionStrings__SqlServer: "Server=sqlserver,1433;Database=arai;User Id=sa;Password=${SA_PASSWORD};Encrypt=False;TrustServerCertificate=True"
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+    ports: ["5101:8080"]

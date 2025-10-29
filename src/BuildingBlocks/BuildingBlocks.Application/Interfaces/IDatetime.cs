@@ -1,6 +1,8 @@
 namespace BuildingBlocks.Application.Interfaces;
 
-public interface IDatetime
+public interface IDateTime
 {
     DateTime Now { get; }
+    DateTime UtcNow { get; }
+    DateOnly Today { get; }
 }

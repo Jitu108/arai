@@ -12,4 +12,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GapEngineSvc.Application\GapEngineSvc.Application.csproj" />
+    <ProjectReference Include="..\GapEngineSvc.Domain\GapEngineSvc.Domain.csproj" />
+    <ProjectReference Include="..\GapEngineSvc.Infrastructure\GapEngineSvc.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
