@@ -37,3 +37,8 @@
 /Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Domain/bin/Debug/net8.0/BuildingBlocks.Domain
 /Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Domain/bin/Debug/net8.0/BuildingBlocks.Domain.dll
 /Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Domain/bin/Debug/net8.0/BuildingBlocks.Domain.pdb
+/Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Domain/bin/Debug/net8.0/BuildingBlocks.Application.deps.json
+/Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Domain/bin/Debug/net8.0/BuildingBlocks.Application.runtimeconfig.json
+/Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Domain/bin/Debug/net8.0/BuildingBlocks.Application
+/Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Domain/bin/Debug/net8.0/BuildingBlocks.Application.dll
+/Users/jitendra/Projects/ARAI/src/Services/PatientSvc/PatientSvc.Domain/bin/Debug/net8.0/BuildingBlocks.Application.pdb
