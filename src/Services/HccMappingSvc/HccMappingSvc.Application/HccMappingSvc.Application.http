@@ -1,0 +1,6 @@
+@HccMappingSvc.Application_HostAddress = http://localhost:5113
+
+GET {{HccMappingSvc.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

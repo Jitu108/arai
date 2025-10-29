@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h73+enWofu6HsmtngH9IvOA9sShiztGZED/vhmK6QQg=",
+  "Source": "HccMappingSvc.Application",
+  "BasePath": "_content/HccMappingSvc.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

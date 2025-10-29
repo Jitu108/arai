@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ic1JjdaUkHXdGMcENwZgtKTYpsxq+aHeMT1eqVQbwY0=",
+  "Source": "BuildingBlocks.Application",
+  "BasePath": "_content/BuildingBlocks.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

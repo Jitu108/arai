@@ -1,0 +1,6 @@
+@PatientSvc.Domain_HostAddress = http://localhost:5200
+
+GET {{PatientSvc.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

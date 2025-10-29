@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CynZOVhyNZ3WLpf+YZLgChAovAddf44RUjKecqn026U=",
+  "Source": "PatientSvc.Domain",
+  "BasePath": "_content/PatientSvc.Domain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

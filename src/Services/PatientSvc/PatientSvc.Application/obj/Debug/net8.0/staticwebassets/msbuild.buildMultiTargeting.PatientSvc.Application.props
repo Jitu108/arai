@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PatientSvc.Application.props" />
+</Project>

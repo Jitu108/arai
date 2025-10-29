@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nAZq9y1EVUN0tMU81f5+EBkQO3HoZno7enEiVQ82tUE=",
+  "Source": "BuildingBlocks.Domain",
+  "BasePath": "_content/BuildingBlocks.Domain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

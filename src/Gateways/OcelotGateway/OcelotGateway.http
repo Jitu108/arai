@@ -1,0 +1,6 @@
+@OcelotGateway_HostAddress = http://localhost:5178
+
+GET {{OcelotGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

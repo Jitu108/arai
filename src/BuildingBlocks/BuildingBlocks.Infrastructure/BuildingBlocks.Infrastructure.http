@@ -1,0 +1,6 @@
+@BuildingBlocks.Infrastructure_HostAddress = http://localhost:5110
+
+GET {{BuildingBlocks.Infrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
