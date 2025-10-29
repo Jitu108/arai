@@ -6,6 +6,6 @@
             "BuildingBlocks/BuildingBlocks.Application/BuildingBlocks.Application.csproj",
             "BuildingBlocks/BuildingBlocks.Infrastructure/BuildingBlocks.Infrastructure.csproj",
             "Gateways/OcelotGateway/OcelotGateway.csproj"
-  ]
-  }
+        ]
+    }
 }

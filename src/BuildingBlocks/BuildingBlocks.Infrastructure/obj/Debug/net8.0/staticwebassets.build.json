@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "oSUeTJKRQSTkPm7RXehy/s6Ecf34fFfH31XEOZ7LLUU=",
+  "Hash": "WZfzzOScwR+CRS8w+1xIUJJO4WXp95J6d6T2x99i3N4=",
   "Source": "BuildingBlocks.Infrastructure",
   "BasePath": "_content/BuildingBlocks.Infrastructure",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Application/BuildingBlocks.Application.csproj",
+      "Version": 2,
+      "Source": "BuildingBlocks.Application",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "CynZOVhyNZ3WLpf+YZLgChAovAddf44RUjKecqn026U=",
+  "Hash": "uUNj8wOZyFA4ZamnSKw5rD43VjOuayS2/ntkoW5rcMU=",
   "Source": "PatientSvc.Domain",
   "BasePath": "_content/PatientSvc.Domain",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Domain/BuildingBlocks.Domain.csproj",
+      "Version": 2,
+      "Source": "BuildingBlocks.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

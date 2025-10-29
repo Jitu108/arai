@@ -32,3 +32,8 @@
 /Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/obj/Debug/net8.0/BuildingBlocks.Infrastructure.genruntimeconfig.cache
 /Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/obj/Debug/net8.0/ref/BuildingBlocks.Infrastructure.dll
 /Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/obj/Debug/net8.0/BuildingBlocks.Infrastructure.sourcelink.json
+/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/bin/Debug/net8.0/BuildingBlocks.Application.deps.json
+/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/bin/Debug/net8.0/BuildingBlocks.Application.runtimeconfig.json
+/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/bin/Debug/net8.0/BuildingBlocks.Application
+/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/bin/Debug/net8.0/BuildingBlocks.Application.dll
+/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/bin/Debug/net8.0/BuildingBlocks.Application.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "l3Xh4Sh2Cm1abpPOAGjwuHpTTtMbaezo+MtDDfKcR5g40OdlJg8OkUQZtRA6eQPCkzI5uaqA7J1NdGq6i1btGg==",
+  "dgSpecHash": "4NeFr77OAiV43RMaKev6GE5VBDLK5zqL3odeSPrQQjK3ofYcXxtPUHTJCbHIpj5xRYaQtXGjGGJszqa9TgnJFw==",
   "success": true,
   "projectFilePath": "/Users/jitendra/Projects/ARAI/src/BuildingBlocks/BuildingBlocks.Infrastructure/BuildingBlocks.Infrastructure.csproj",
   "expectedPackageFiles": [
