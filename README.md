@@ -133,4 +133,4 @@ These foundational components allow each microservice to remain **autonomous**, 
 ## 👤 Author
 
 **Jitendra Gupta** – Principal Architect & Developer
-Connect on [LinkedIn]([https://www.linkedin.com/in/jitendra-gupta/](https://www.linkedin.com/in/jitendra-gupta-34862120/)) for collaboration or technical discussions.
+Connect on [LinkedIn](https://www.linkedin.com/in/jitendra-gupta-34862120/) for collaboration or technical discussions.
