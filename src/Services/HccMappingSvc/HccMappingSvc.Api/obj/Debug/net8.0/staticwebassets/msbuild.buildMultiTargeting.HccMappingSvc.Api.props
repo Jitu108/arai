@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/HccMappingSvc.Api.props" />
-</Project>
