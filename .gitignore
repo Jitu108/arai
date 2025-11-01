@@ -19,3 +19,4 @@ docker-compose.yml
 # (Optional) Ignore Docker build output
 **/publish/
 *.Dockerfile.user
+.DS_Store

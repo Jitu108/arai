@@ -1,6 +1,0 @@
-@HccMappingSvc.Domain_HostAddress = http://localhost:5244
-
-GET {{HccMappingSvc.Domain_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

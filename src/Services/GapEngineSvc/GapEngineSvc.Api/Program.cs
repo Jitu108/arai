@@ -1,29 +1,44 @@
-using System.Reflection;
-using GapEngineSvc.Application.Queries.GetGapsByPatient;
-using GapEngineSvc.Domain.Gaps;
-using GapEngineSvc.Infrastructure.Rules;
-using MediatR;
-
 var builder = WebApplication.CreateBuilder(args);
 
-// Static rule engine for Phase-1
-builder.Services.AddSingleton<IGapRule, DiabetesStaticRule>();
-builder.Services.AddSingleton<IGapRule, ChfStaticRule>();
-
-builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.Load("GapEngineSvc.Application")));
+// Add services to the container.
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-app.UseSwagger(); app.UseSwaggerUI();
 
-app.MapGet("/health", () => Results.Ok(new { status = "ok", service = "gapenginesvc" }));
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
-app.MapGet("/api/gaps/patient/{patientId:long}",
-    async (long patientId, IMediator mediator) =>
-    {
-        var list = await mediator.Send(new GetGapsByPatientQuery(patientId));
-        return Results.Ok(list);
-    });
+app.UseHttpsRedirection();
+
+var summaries = new[]
+{
+    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+};
+
+app.MapGet("/weatherforecast", () =>
+{
+    var forecast =  Enumerable.Range(1, 5).Select(index =>
+        new WeatherForecast
+        (
+            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
+            Random.Shared.Next(-20, 55),
+            summaries[Random.Shared.Next(summaries.Length)]
+        ))
+        .ToArray();
+    return forecast;
+})
+.WithName("GetWeatherForecast")
+.WithOpenApi();
 
 app.Run();
+
+record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
+{
+    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+}

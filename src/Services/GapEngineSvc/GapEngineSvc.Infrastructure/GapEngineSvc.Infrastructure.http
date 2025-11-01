@@ -1,6 +1,0 @@
-@GapEngineSvc.Infrastructure_HostAddress = http://localhost:5187
-
-GET {{GapEngineSvc.Infrastructure_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

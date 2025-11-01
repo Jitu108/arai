@@ -1,6 +1,0 @@
-@GapEngineSvc.Domain_HostAddress = http://localhost:5219
-
-GET {{GapEngineSvc.Domain_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
