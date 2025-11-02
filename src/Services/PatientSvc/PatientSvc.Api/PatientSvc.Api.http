@@ -1,6 +1,6 @@
-@PatientSvc.Api_HostAddress = http://localhost:5118
+# @PatientSvc.Api_HostAddress = http://localhost:5056
 
-GET {{PatientSvc.Api_HostAddress}}/weatherforecast/
-Accept: application/json
+# GET {{PatientSvc.Api_HostAddress}}/weatherforecast/
+# Accept: application/json
 
-###
+# ###

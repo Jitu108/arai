@@ -7,8 +7,7 @@ RUN dotnet publish -c Release -o /app/publish /p:UseAppHost=false
 
 # 2) Runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
-
 WORKDIR /app
 COPY --from=build /app/publish .         
 EXPOSE 8080
-ENTRYPOINT ["dotnet","PatientSvc.Api.dll"]
+ENTRYPOINT ["dotnet","GapEngineSvc.Api.dll"]
